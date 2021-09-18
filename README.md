@@ -26,7 +26,6 @@
 
 ## I'm a Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to open source
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
