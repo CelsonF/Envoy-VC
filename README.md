@@ -193,8 +193,6 @@ Markdown   40 mins         ▓░░░░░░░░░░░░░░░░�
   
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 </details>
 
 <br>
