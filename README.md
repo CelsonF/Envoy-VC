@@ -133,6 +133,11 @@ const vedant = {
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kovacs - A Python Discord Bot](https://dev.to/envoy_/kovacs-a-python-discord-bot-1l2o)
+- [Python f-strings can do more than you thought](https://dev.to/envoy_/python-f-strings-can-do-more-than-you-thought-23ag)
+- [11 Free eBooks to Learn Python](https://dev.to/envoy_/11-free-ebooks-to-learn-python-gn4)
+- [Python Cheatsheet](https://dev.to/envoy_/python-cheatsheet-33ec)
+- [Zoom Automation Using Python](https://dev.to/envoy_/zoom-automation-using-python-4812)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
