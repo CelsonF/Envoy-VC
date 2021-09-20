@@ -132,11 +132,11 @@ const vedant = {
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kovacs](https://dev.to/envoy_/kovacs-45bi)
 - [Python f-strings can do more than you thought](https://dev.to/envoy_/python-f-strings-can-do-more-than-you-thought-23ag)
 - [11 Free eBooks to Learn Python](https://dev.to/envoy_/11-free-ebooks-to-learn-python-gn4)
 - [Python Cheatsheet](https://dev.to/envoy_/python-cheatsheet-33ec)
 - [Zoom Automation Using Python](https://dev.to/envoy_/zoom-automation-using-python-4812)
-- [AWESOME WINDOWS TOOLS](https://dev.to/envoy_/awesome-windows-tools-320k)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
