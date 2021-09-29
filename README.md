@@ -189,10 +189,10 @@ JSON       9 mins          ▒░░░░░░░░░░░░░░░░�
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/lonewolf1084/hello/pull/3) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-2. 💪 Opened PR [#2](https://github.com/lonewolf1084/hello/pull/2) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-3. 💪 Opened PR [#1](https://github.com/lonewolf1084/hello/pull/1) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-4. 🎉 Merged PR [#1](https://github.com/Envoy-VC/kovacs-discord-bot/pull/1) in [Envoy-VC/kovacs-discord-bot](https://github.com/Envoy-VC/kovacs-discord-bot)
+1. 💪 Opened PR [#4](https://github.com/lonewolf1084/hello/pull/4) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
+2. 🎉 Merged PR [#1](https://github.com/Envoy-VC/hello/pull/1) in [Envoy-VC/hello](https://github.com/Envoy-VC/hello)
+3. 💪 Opened PR [#1](https://github.com/Envoy-VC/hello/pull/1) in [Envoy-VC/hello](https://github.com/Envoy-VC/hello)
+4. 💪 Opened PR [#3](https://github.com/lonewolf1084/hello/pull/3) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
 <!--END_SECTION:activity-->
 
 </details>
