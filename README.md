@@ -132,11 +132,11 @@ const vedant = {
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jina - Cloud-Native Neural Search Framework for Any Kind of Data](https://dev.to/envoy_/jina-cloud-native-neural-search-framework-for-any-kind-of-data-56hh)
 - [NumPy - dtypes](https://dev.to/envoy_/numpy-dtypes-55d8)
 - [NumPy - ndarrays](https://dev.to/envoy_/numpy-ndarrays-1m6e)
 - [NumPy - Introduction](https://dev.to/envoy_/numpy-introduction-jjg)
 - [How Random Is Random?](https://dev.to/envoy_/how-random-is-random-15eb)
-- [Kovacs](https://dev.to/envoy_/kovacs-45bi)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
