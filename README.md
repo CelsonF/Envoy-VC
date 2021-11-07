@@ -132,11 +132,11 @@ const vedant = {
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Key Terms](https://dev.to/envoy_/blockchain-key-terms-m57)
 - [What’s The Blockchain?](https://dev.to/envoy_/whats-the-blockchain-4kik)
 - [Blockchain App Developer Roadmap ✨✨✨](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5)
 - [Jina - Cloud-Native Neural Search Framework for Any Kind of Data](https://dev.to/envoy_/jina-cloud-native-neural-search-framework-for-any-kind-of-data-56hh)
 - [NumPy - dtypes](https://dev.to/envoy_/numpy-dtypes-55d8)
-- [NumPy - ndarrays](https://dev.to/envoy_/numpy-ndarrays-1m6e)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
