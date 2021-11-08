@@ -151,8 +151,8 @@ const vedant = {
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     40 mins         ████████████████████▓░░░░   82.42 % 
-JavaScript   8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Markdown     1 hr 32 mins    ███████████████████████░░   91.41 % 
+JavaScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 ```
 <!--END_SECTION:waka-->
 
