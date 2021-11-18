@@ -151,7 +151,7 @@ const vedant = {
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   18 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
