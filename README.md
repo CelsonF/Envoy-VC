@@ -187,8 +187,8 @@ No Activity tracked this Week
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#176](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/176) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
-2. 💪 Opened PR [#7](https://github.com/lonewolf1084/hello/pull/7) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
+1. ❗️ Closed issue [#176](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/176) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
+2. ❗️ Opened issue [#176](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/176) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
 3. 💪 Opened PR [#6](https://github.com/lonewolf1084/hello/pull/6) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
 4. 💪 Opened PR [#5](https://github.com/lonewolf1084/hello/pull/5) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
 <!--END_SECTION:activity-->
