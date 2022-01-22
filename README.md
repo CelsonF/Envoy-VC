@@ -188,9 +188,9 @@ No Activity tracked this Week
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#180](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/180) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
-2. 🎉 Merged PR [#2](https://github.com/Envoy-VC/Badges-for-GitHub/pull/2) in [Envoy-VC/Badges-for-GitHub](https://github.com/Envoy-VC/Badges-for-GitHub)
-3. 🗣 Commented on [#180](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/180) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
-4. ❗️ Closed issue [#176](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/176) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
+2. 🗣 Commented on [#180](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/180) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
+3. 🎉 Merged PR [#2](https://github.com/Envoy-VC/Badges-for-GitHub/pull/2) in [Envoy-VC/Badges-for-GitHub](https://github.com/Envoy-VC/Badges-for-GitHub)
+4. 🗣 Commented on [#180](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/issues/180) in [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)
 <!--END_SECTION:activity-->
 
 </details>
