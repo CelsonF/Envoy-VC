@@ -151,7 +151,9 @@ const vedant = {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 23 mins
+
+Python   23 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
