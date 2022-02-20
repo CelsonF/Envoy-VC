@@ -151,8 +151,6 @@ const vedant = {
 
 <!--START_SECTION:waka-->
 ```text
-Total: 23 mins
-
 Python   23 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
